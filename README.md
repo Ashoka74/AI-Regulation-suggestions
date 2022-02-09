@@ -11,3 +11,8 @@ pip install requirements.txt
 
 
 3) Run the program
+
+
+
+<b> For the Django App version, see </b>
+https://github.com/Ashoka74/AI_Regulation
