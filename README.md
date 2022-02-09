@@ -1,6 +1,6 @@
 # AI-Regulation-suggestions
 
-https://www.youtube.com/watch?v=hrmZ-crQKcU&ab_channel=MarcoFernandez
+    <a href="https://www.youtube.com/watch?v=hrmZ-crQKcU&ab_channel=MarcoFernandez">View Demo</a>
 
 GPT-3 Powered Self-regulating AI
 
